@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\bin\Debug\net5.0\ref\Polimorfismo.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\bin\Debug\net5.0\Polimorfismo.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\ref\Polimorfismo.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Polimorfismo\obj\Debug\net5.0\Polimorfismo.genruntimeconfig.cache
