@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\bin\Debug\net5.0\Metodos.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\bin\Debug\net5.0\Metodos.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\bin\Debug\net5.0\Metodos.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\bin\Debug\net5.0\Metodos.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\bin\Debug\net5.0\Metodos.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\bin\Debug\net5.0\ref\Metodos.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\bin\Debug\net5.0\Metodos.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\ref\Metodos.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Metodos\obj\Debug\net5.0\Metodos.genruntimeconfig.cache
