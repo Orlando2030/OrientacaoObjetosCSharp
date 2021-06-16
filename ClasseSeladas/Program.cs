@@ -17,7 +17,7 @@ namespace ClasseSeladas
         }
 
         // Como comentado anteriormente não é possivel a classe PagamentoBoleto
-        // herda da classe Pagamento
+        // herda da classe Pagamento pela classe de pagamentos ser selada
         public class PagamentoBoleto : Pagamento
         {
 

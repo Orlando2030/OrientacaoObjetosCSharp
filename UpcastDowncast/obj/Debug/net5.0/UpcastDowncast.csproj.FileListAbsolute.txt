@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\bin\Debug\net5.0\UpcastDowncast.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\bin\Debug\net5.0\UpcastDowncast.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\bin\Debug\net5.0\UpcastDowncast.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\bin\Debug\net5.0\UpcastDowncast.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\bin\Debug\net5.0\UpcastDowncast.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\bin\Debug\net5.0\ref\UpcastDowncast.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\bin\Debug\net5.0\UpcastDowncast.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\ref\UpcastDowncast.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\UpcastDowncast\obj\Debug\net5.0\UpcastDowncast.genruntimeconfig.cache
