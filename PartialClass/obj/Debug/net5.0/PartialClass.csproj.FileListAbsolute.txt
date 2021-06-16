@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\bin\Debug\net5.0\PartialClass.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\bin\Debug\net5.0\PartialClass.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\bin\Debug\net5.0\PartialClass.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\bin\Debug\net5.0\ref\PartialClass.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\bin\Debug\net5.0\PartialClass.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\ref\PartialClass.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\PartialClass\obj\Debug\net5.0\PartialClass.genruntimeconfig.cache

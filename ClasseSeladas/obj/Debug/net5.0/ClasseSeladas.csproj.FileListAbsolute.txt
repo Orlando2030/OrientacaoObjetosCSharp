@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\bin\Debug\net5.0\ClasseSeladas.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\bin\Debug\net5.0\ClasseSeladas.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\bin\Debug\net5.0\ClasseSeladas.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\bin\Debug\net5.0\ClasseSeladas.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\bin\Debug\net5.0\ClasseSeladas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\bin\Debug\net5.0\ref\ClasseSeladas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\bin\Debug\net5.0\ClasseSeladas.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ref\ClasseSeladas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseSeladas\obj\Debug\net5.0\ClasseSeladas.genruntimeconfig.cache

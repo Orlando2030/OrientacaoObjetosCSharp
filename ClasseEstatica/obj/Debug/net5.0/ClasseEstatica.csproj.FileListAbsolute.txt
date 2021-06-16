@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\bin\Debug\net5.0\ClasseEstatica.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\bin\Debug\net5.0\ClasseEstatica.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\bin\Debug\net5.0\ClasseEstatica.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\bin\Debug\net5.0\ClasseEstatica.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\bin\Debug\net5.0\ClasseEstatica.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\bin\Debug\net5.0\ref\ClasseEstatica.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\bin\Debug\net5.0\ClasseEstatica.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ref\ClasseEstatica.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClasseEstatica\obj\Debug\net5.0\ClasseEstatica.genruntimeconfig.cache
