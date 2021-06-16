@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\bin\Debug\net5.0\Interfaces.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\bin\Debug\net5.0\Interfaces.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\bin\Debug\net5.0\Interfaces.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\bin\Debug\net5.0\Interfaces.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache

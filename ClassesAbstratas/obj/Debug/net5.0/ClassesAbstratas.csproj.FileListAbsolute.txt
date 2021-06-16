@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\bin\Debug\net5.0\ref\ClassesAbstratas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ref\ClassesAbstratas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.genruntimeconfig.cache
