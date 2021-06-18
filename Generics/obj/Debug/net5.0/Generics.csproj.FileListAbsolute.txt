@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\bin\Debug\net5.0\Generics.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\bin\Debug\net5.0\Generics.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\bin\Debug\net5.0\Generics.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\bin\Debug\net5.0\ref\Generics.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\bin\Debug\net5.0\Generics.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\ref\Generics.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
