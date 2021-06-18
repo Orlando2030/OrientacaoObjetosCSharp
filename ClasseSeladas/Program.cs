@@ -11,7 +11,8 @@ namespace ClasseSeladas
 
         // A classe selada não é possivel estender a classe
         // Não é possivel herda dessa clase
-        public sealed class Pagamento 
+        //public sealed class Pagamento 
+        public class Pagamento 
         {
             public string numeroPagamento { get; set; }
         }

@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\bin\Debug\net5.0\Events.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\bin\Debug\net5.0\Events.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\bin\Debug\net5.0\Events.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\bin\Debug\net5.0\Events.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\bin\Debug\net5.0\Events.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\bin\Debug\net5.0\ref\Events.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\bin\Debug\net5.0\Events.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\ref\Events.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache

@@ -24,7 +24,7 @@ namespace Polimorfismo
             //var automovel =  new Automovel("Vw");
             //MovimentarVeiculo(automovel);
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
         
         public static void MovimentarVeiculo(Veiculo veiculo)

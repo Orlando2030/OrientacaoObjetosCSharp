@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\bin\Debug\net5.0\ComparandoObjeto.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\bin\Debug\net5.0\ComparandoObjeto.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\bin\Debug\net5.0\ComparandoObjeto.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\bin\Debug\net5.0\ComparandoObjeto.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\bin\Debug\net5.0\ComparandoObjeto.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\bin\Debug\net5.0\ref\ComparandoObjeto.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\bin\Debug\net5.0\ComparandoObjeto.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ref\ComparandoObjeto.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\ComparandoObjeto\obj\Debug\net5.0\ComparandoObjeto.genruntimeconfig.cache
