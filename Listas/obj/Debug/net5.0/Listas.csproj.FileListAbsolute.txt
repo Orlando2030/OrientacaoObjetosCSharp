@@ -1,0 +1,16 @@
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\bin\Debug\net5.0\Listas.exe
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\bin\Debug\net5.0\Listas.deps.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\bin\Debug\net5.0\Listas.runtimeconfig.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\bin\Debug\net5.0\Listas.runtimeconfig.dev.json
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\bin\Debug\net5.0\Listas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\bin\Debug\net5.0\ref\Listas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\bin\Debug\net5.0\Listas.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.csprojAssemblyReference.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.AssemblyInfoInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.AssemblyInfo.cs
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.csproj.CoreCompileInputs.cache
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\ref\Listas.dll
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.pdb
+G:\00_Estudos\2021\OrientacaoObjetosCSharp\listas\obj\Debug\net5.0\Listas.genruntimeconfig.cache
